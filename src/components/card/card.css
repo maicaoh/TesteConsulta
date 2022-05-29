@@ -1,0 +1,65 @@
+
+.scardCount{
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #F7F7F7;
+    box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.25);
+    width: 817px;
+}
+.titleCounterUser{
+    margin-left: 5px;
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.subCardTotalUser{
+    box-sizing: border-box;
+    width: 776px;
+    height: 120px;
+    background: #DBF6FF;
+    border: 1px solid #F2F2F2;
+    display: flex;
+    align-items: center;
+    margin-top: 4px;
+    justify-content: space-between;
+}
+
+.cardCount{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+   
+   width: 817px;
+   height: 208px;
+   
+   
+   background: #FFFFFF;
+   border: 1px solid #F7F7F7;
+   box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.25);
+   
+   }
+   
+   .scardCount{
+     display:flex;
+     height:100%;
+     justify-Content:center;
+     align-items:center;
+   }
+   
+   .centerCard{
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+   }

@@ -1,0 +1,38 @@
+{
+  "perfil": [
+    {
+      "id": 1,
+      "descricao": "Administrador"
+    },
+    {
+      "id": 2,
+      "descricao": "Usuário"
+    }
+  ],
+  "genero": [
+    {
+      "id": 1,
+      "descricao": "Feminino"
+    },
+    {
+      "id": 2,
+      "descricao": "Masculino"
+    }
+  ],
+  "usuario": [
+    {
+      "nome": "João",
+      "idade": 20,
+      "generoId": 1,
+      "perfilId": 1,
+      "id": 1
+    },
+    {
+      "nome": "Joã",
+      "idade": 23,
+      "generoId": 1,
+      "perfilId": 1,
+      "id": 2
+    }
+  ]
+}

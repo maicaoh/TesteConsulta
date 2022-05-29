@@ -1,5 +1,5 @@
 # Guia de Execução
-  1- Clone o repositório https://github.com/maicaoh/TesteConsulta.git
+  1- Clone o repositório https://github.com/maicaoh/TesteConsulta.git <br/>
   2 -Abra o terminal e navegue a pasta testeConsulta (cd testeConsulta)
   3- Execute o Comando (npm install)
   4- Abra outro terminal no mesmo endereço do terminal atual (.../testeConsulta)
